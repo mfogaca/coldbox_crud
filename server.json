@@ -1,0 +1,15 @@
+{
+    "web":{
+        "http":{
+            "enable":true,
+            "port":8510
+        },
+        "rewrites":{
+            "enable":true
+        }
+    },
+    "app":{
+        "cfengine":"adobe@2018"
+    },
+    "name":"curso_tcc"
+}
